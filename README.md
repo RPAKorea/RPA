@@ -31,9 +31,9 @@
 21. Activities 찾아보기
 
 1장은 BA, 2~11장은 기초교육, 12장부터는 전문가 교육과정입니다.
-## 기초교육 자료
+## 기초 교육
 
-강의 자료
+#### 강의 자료
 - RPA_Guidebook.zip
 - 강의 노트
   - 2-4장.pptx
@@ -44,13 +44,15 @@
     - https://drive.google.com/file/d/1zOWT5vSJ8dKGGhgjhwuAMmoDDGWkaDub/view?usp=sharing
   - RPA기초개발자과정_수업보충자료.pptx
 
-실습 문제
+#### 실습 문제
 - Practice1_TypeA.zip
 - Practice1_TypeB.zip
 - Practice2_TypeA.zip
 - Practice2_TypeB.zip
 
-## 전문가 교육 자료
+## 전문가 교육
+
+#### 강의 자료
 https://drive.google.com/open?id=1bKkj4kpSvc_J9CRV7QB-MRKcItMUqxgp
 
 ## 강의 평가
