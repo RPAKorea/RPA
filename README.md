@@ -8,7 +8,6 @@
 
 ## 교육 과정
 
-**기초 교육**
 1. 디지털 트랜스포메이션
 2. UiPath Studio알아보기
 3. RPA 기초이론
@@ -20,21 +19,18 @@
 9. 디버깅
 10. 예외처리
 11. 프로젝트 구성하기
-
-**전문가 교육**
 12. Orchestrator 소개
 13. Orchestrator 기능
 14. Orchestrator 실전 기본
 15. Orchestrator 실전 고급
 16. Orchestrator 아키텍처
-
-**부록**
 17. Email 자동화
 18. PDF 자동화
 19. Image Recording1
 20. Image Recording2
 21. Activities 찾아보기
 
+1장은 BA, 2~11장은 기초교육, 12장부터는 전문가 교육과정입니다.
 ## 기초교육 자료
 
 강의 자료
@@ -59,6 +55,6 @@ https://drive.google.com/open?id=1bKkj4kpSvc_J9CRV7QB-MRKcItMUqxgp
 
 ## 강의 평가
 
-https://forms.gle/NBNBuLXi1xnbV8Vx8
-
 기초교육, 전문가 교육 모두 가기전에 강의 평가를 진행해 주세요!!
+
+https://forms.gle/NBNBuLXi1xnbV8Vx8
