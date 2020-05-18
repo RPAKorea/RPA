@@ -6,7 +6,7 @@
 
 **유튜브 채널** https://www.youtube.com/watch?v=UBaCCWKBjJM
 
-## 교육 과정
+## 학습 목차
 
 1. 디지털 트랜스포메이션
 2. UiPath Studio알아보기
@@ -34,7 +34,7 @@
 ## 기초 교육
 
 #### 강의 자료
-- RPA_Guidebook.zip
+- [RPA_Guidebook.zip](https://github.com/RPAKorea/RPA/blob/master/RPA_Guidebook.zip)
 - 강의 노트
   - 2-4장.pptx
     - https://drive.google.com/file/d/1LkhQeX6xT4ZIMTkpfpHwWaQrzMv3OuSV/view?usp=sharing
@@ -45,10 +45,12 @@
   - RPA기초개발자과정_수업보충자료.pptx
 
 #### 실습 문제
-- Practice1_TypeA.zip
-- Practice1_TypeB.zip
-- Practice2_TypeA.zip
-- Practice2_TypeB.zip
+- 난이도 상
+  - [Practice1_TypeA.zip](https://github.com/RPAKorea/RPA/blob/master/Practice1_TypeA.zip)
+  - [Practice1_TypeB.zip](https://github.com/RPAKorea/RPA/blob/master/Practice1_TypeB.zip)
+- 난이도 하
+  - [Practice2_TypeA.zip](https://github.com/RPAKorea/RPA/blob/master/Practice2_TypeA.zip)
+  - [Practice2_TypeB.zip](https://github.com/RPAKorea/RPA/blob/master/Practice2_TypeB.zip)
 
 ## 전문가 교육
 
