@@ -23,6 +23,6 @@ https://drive.google.com/open?id=1bKkj4kpSvc_J9CRV7QB-MRKcItMUqxgp
 
 ## 강의 평가
 
-기초교육, 전문가 교육 모두 가기전에 강의 평가를 진행해 주세요!!
+기초교육, 전문가 교육 모두 마치기 전에 강의 평가를 진행해 주세요!!
 
 https://forms.gle/NBNBuLXi1xnbV8Vx8
