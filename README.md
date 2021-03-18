@@ -1,4 +1,4 @@
-# KS 디지털 러닝 센터 교육 자료
+# KS academy 교육 자료
 
 **인터넷 강의 주소**  http://ks-academy.co.kr/
 
