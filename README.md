@@ -16,10 +16,10 @@
   - [Practice2_TypeA.zip](https://github.com/RPAKorea/RPA/blob/master/Practice2_TypeA.zip)
   - [Practice2_TypeB.zip](https://github.com/RPAKorea/RPA/blob/master/Practice2_TypeB.zip)
 
-## 전문가 교육
+## 중급개발자교육
 
 #### 강의 자료
-https://drive.google.com/open?id=1bKkj4kpSvc_J9CRV7QB-MRKcItMUqxgp
+https://drive.google.com/file/d/1aUjkK-ko5uPAVQXvdjLOkRvbRP7ecyLt/view?usp=sharing
 
 ## 강의 평가
 
