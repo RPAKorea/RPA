@@ -28,9 +28,13 @@
 
 [https://docs.uipath.com/document-understanding/docs/public-endpoints](https://docs.uipath.com/document-understanding/docs/public-endpoints)
 
+Document OCR Endpoint : https://du.uipath.com/ocr
+
 **Google Cloud Vision OCR**
 
 [https://cloud.google.com/vision/docs/before-you-begin](https://cloud.google.com/vision/docs/before-you-begin )
+
+엔드포인트 : https://vision.googleapis.com/v1/images:annotate
 
 **Mizrosoft Azure Computer Vision**
 
@@ -53,3 +57,9 @@
 **Tesseract 옵션 목록**
 
 [https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc](https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc)
+
+## Session4 AI 모델, 학습하기
+
+**Out of box package Schema**
+
+[https://docs.uipath.com/ai-fabric/v2020.7/docs/configuring-data-manager](https://docs.uipath.com/ai-fabric/v2020.7/docs/configuring-data-manager)
