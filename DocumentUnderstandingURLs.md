@@ -63,3 +63,7 @@ Document OCR Endpoint : https://du.uipath.com/ocr
 **Out of box package Schema**
 
 [https://docs.uipath.com/ai-fabric/v2020.7/docs/configuring-data-manager](https://docs.uipath.com/ai-fabric/v2020.7/docs/configuring-data-manager)
+
+**Custom ML Package Example**
+
+[https://docs.uipath.com/ai-fabric/docs/ml-packages-examples](https://docs.uipath.com/ai-fabric/docs/ml-packages-examples)
