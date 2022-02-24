@@ -25,4 +25,4 @@ https://drive.google.com/file/d/1aUjkK-ko5uPAVQXvdjLOkRvbRP7ecyLt/view?usp=shari
 
 기초교육, 전문가 교육 모두 마치기 전에 강의 평가를 진행해 주세요!!
 
-https://forms.gle/gQL2EQCCSEVuu7Kq5
+https://forms.gle/Xi9PnwGuoQbzNz6n6
